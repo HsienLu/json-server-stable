@@ -1,0 +1,677 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "account": "user001",
+      "username": "烈焰之刃",
+      "password": "hashedpassword001",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar007",
+      "thumb": 100,
+      "userRank": "Diamond",
+      "likePosition": "Top",
+      "likeHero": "aatrox",
+      "valid": true
+    },
+    {
+      "id": 2,
+      "account": "user002",
+      "username": "焰舞狐",
+      "password": "hashedpassword002",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar009",
+      "thumb": 75,
+      "userRank": "Gold",
+      "likePosition": "JG",
+      "likeHero": "amumu",
+      "valid": true
+    },
+    {
+      "id": 3,
+      "account": "user003",
+      "username": "暗影刺客X",
+      "password": "hashedpassword003",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar003",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "MID",
+      "likeHero": "ashe",
+      "valid": true
+    },
+    {
+      "id": 4,
+      "account": "user004",
+      "username": "極光冰霜",
+      "password": "hashedpassword004",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar011",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "AD",
+      "likeHero": "galio",
+      "valid": true
+    },
+    {
+      "id": 5,
+      "account": "user005",
+      "username": "暗影武士",
+      "password": "hashedpassword005",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar005",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "SUP",
+      "likeHero": "gnar",
+      "valid": true
+    },
+    {
+      "id": 6,
+      "account": "user006",
+      "username": "雷霆霸主",
+      "password": "hashedpassword006",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar006",
+      "thumb": 10,
+      "userRank": "Gold",
+      "likePosition": "TOP",
+      "likeHero": "lulu",
+      "valid": true
+    },
+    {
+      "id": 7,
+      "account": "user007",
+      "username": "光明騎士Y",
+      "password": "hashedpassword007",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar007",
+      "thumb": 110,
+      "userRank": "Emerald",
+      "likePosition": "JG",
+      "likeHero": "teemo",
+      "valid": true
+    },
+    {
+      "id": 8,
+      "account": "user008",
+      "username": "聖光之翼",
+      "password": "hashedpassword008",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar008",
+      "thumb": 20,
+      "userRank": "Grandmaster",
+      "likePosition": "MID",
+      "likeHero": "vex",
+      "valid": true
+    },
+    {
+      "id": 9,
+      "account": "user009",
+      "username": "魔法煉金師",
+      "password": "hashedpassword009",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar009",
+      "thumb": 11,
+      "userRank": "Silver",
+      "likePosition": "AD",
+      "likeHero": "yuumi",
+      "valid": true
+    },
+    {
+      "id": 10,
+      "account": "user010",
+      "username": "風暴使者Z",
+      "password": "hashedpassword010",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar010",
+      "thumb": 13,
+      "userRank": "Silver",
+      "likePosition": "SUP",
+      "likeHero": "zoe",
+      "valid": true
+    },
+    {
+      "id": 11,
+      "account": "user011",
+      "username": "影刃之劍",
+      "password": "hashedpassword011",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar011",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "TOP",
+      "likeHero": "aatrox",
+      "valid": true
+    },
+    {
+      "id": 12,
+      "account": "user012",
+      "username": "雪心之歌",
+      "password": "hashedpassword012",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar012",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "JG",
+      "likeHero": "amumu",
+      "valid": true
+    },
+    {
+      "id": 13,
+      "account": "user013",
+      "username": "黑夜女巫",
+      "password": "hashedpassword013",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar013",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "MID",
+      "likeHero": "ashe",
+      "valid": true
+    },
+    {
+      "id": 14,
+      "account": "user014",
+      "username": "烈焰守護者",
+      "password": "hashedpassword014",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar014",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "AD",
+      "likeHero": "galio",
+      "valid": true
+    },
+    {
+      "id": 15,
+      "account": "user015",
+      "username": "冰霜巫妖",
+      "password": "hashedpassword015",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar007",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "SUP",
+      "likeHero": "gnar",
+      "valid": true
+    },
+    {
+      "id": 16,
+      "account": "user016",
+      "username": "雷霆之怒X",
+      "password": "hashedpassword016",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar008",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "TOP",
+      "likeHero": "lulu",
+      "valid": true
+    },
+    {
+      "id": 17,
+      "account": "user017",
+      "username": "聖光騎士",
+      "password": "hashedpassword017",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar009",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "JG",
+      "likeHero": "teemo",
+      "valid": true
+    },
+    {
+      "id": 18,
+      "account": "user018",
+      "username": "神聖之翼",
+      "password": "hashedpassword018",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar010",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "Mid",
+      "likeHero": "vex",
+      "valid": true
+    },
+    {
+      "id": 19,
+      "account": "user019",
+      "username": "魔法煉金師Y",
+      "password": "hashedpassword019",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar011",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "AD",
+      "likeHero": "yuumi",
+      "valid": true
+    },
+    {
+      "id": 20,
+      "account": "user020",
+      "username": "風暴使者Z",
+      "password": "hashedpassword020",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar012",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "SUP",
+      "likeHero": "zoe",
+      "valid": true
+    },
+    {
+      "id": 21,
+      "account": "user021",
+      "username": "影刃之劍X",
+      "password": "hashedpassword021",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar013",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "TOP",
+      "likeHero": "aatrox",
+      "valid": true
+    },
+    {
+      "id": 22,
+      "account": "user014",
+      "username": "烈焰守護者",
+      "password": "hashedpassword014",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar014",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "JG",
+      "likeHero": "amumu",
+      "valid": true
+    },
+    {
+      "id": 23,
+      "account": "user015",
+      "username": "冰霜巫妖",
+      "password": "hashedpassword015",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar015",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "MID",
+      "likeHero": "ashe",
+      "valid": true
+    },
+    {
+      "id": 24,
+      "account": "user016",
+      "username": "雷霆之怒X",
+      "password": "hashedpassword016",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar013",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "AD",
+      "likeHero": "galio",
+      "valid": true
+    },
+    {
+      "id": 25,
+      "account": "user017",
+      "username": "聖光騎士",
+      "password": "hashedpassword017",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar012",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "SUP",
+      "likeHero": "gnar",
+      "valid": true
+    },
+    {
+      "id": 26,
+      "account": "user018",
+      "username": "神聖之翼",
+      "password": "hashedpassword018",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar011",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "TOP",
+      "likeHero": "lulu",
+      "valid": true
+    },
+    {
+      "id": 27,
+      "account": "user019",
+      "username": "魔法煉金師Y",
+      "password": "hashedpassword019",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar010",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "JG",
+      "likeHero": "teemo",
+      "valid": true
+    },
+    {
+      "id": 28,
+      "account": "user020",
+      "username": "風暴使者Z",
+      "password": "hashedpassword020",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar009",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "MID",
+      "likeHero": "vex",
+      "valid": true
+    },
+    {
+      "id": 29,
+      "account": "user021",
+      "username": "影刃之劍X",
+      "password": "hashedpassword021",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar008",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "AD",
+      "likeHero": "yuumi",
+      "valid": true
+    },
+    {
+      "id": 30,
+      "account": "user022",
+      "username": "雪心之歌Y",
+      "password": "hashedpassword022",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar007",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "SUP",
+      "likeHero": "zoe",
+      "valid": true
+    },
+    {
+      "id": 31,
+      "account": "user023",
+      "username": "黑夜女巫Z",
+      "password": "hashedpassword023",
+      "createdAt": "2023-10-29",
+      "avatar": "avatar006",
+      "thumb": 120,
+      "userRank": "Silver",
+      "likePosition": "TOP",
+      "likeHero": "amumu",
+      "valid": true
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$pvH6TRTRil5vfaRig4YqquEfmo6YcTGInzU99jCCIQ2kT2nuzOpPO",
+      "username": "aaa",
+      "createdAt": 1701498929716,
+      "avatar": "img-avatar-01",
+      "thumb": 0,
+      "userRank": "Bronze",
+      "likePosition": "JG",
+      "likeHero": "vex",
+      "valid": true,
+      "id": 32
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 1,
+      "commentedId": 2
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "commentedId": 1
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "commentedId": 1
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "commentedId": 3
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "commentedId": 2
+    }
+  ],
+  "friendLists": [
+    {
+      "id": 1,
+      "userId": 1,
+      "friendId": 2,
+      "status": 2
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "friendId": 3,
+      "status": 1
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "friendId": 4,
+      "status": 2
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "friendId": 5,
+      "status": 2
+    }
+  ],
+  "banLists": [
+    {
+      "id": 1,
+      "userId": 1,
+      "friendId": 2
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "friendId": 1
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "friendId": 3
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "friendId": 4
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "friendId": 5
+    }
+  ],
+  "teamHistorys": [
+    {
+      "id": 1,
+      "userId": 1,
+      "teamId": 1,
+      "createAt": "2023-10-29"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "teamId": 1,
+      "createAt": "2023-10-30"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "teamId": 2,
+      "createAt": "2023-10-31"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "teamId": 3,
+      "createAt": "2023-11-11"
+    }
+  ],
+  "teams": [
+    {
+      "id": 0,
+      "userId": 2,
+      "teamName": "TeamA",
+      "playTime": "2023-12-17 11:20",
+      "rankLimt": "Platinum",
+      "createAt": "2023-10-29",
+      "teamNotice": [
+        "1.不要有會說髒話的加入",
+        "2.最好有上大師"
+      ],
+      "teamMerberId": [
+        32,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": 1,
+      "userId": 5,
+      "teamName": "Team B",
+      "playTime": "2023-12-18 19:00",
+      "rankLimt": "Gold",
+      "teamNotice": [
+        "1.不要有會說髒話的加入",
+        "2.最好有上大師",
+        "3.最近有玩超過10場牌位",
+        "4.演員地雷勿進",
+        "5.能對其他線路有理解尤佳"
+      ],
+      "createAt": "2023-10-30",
+      "teamMerberId": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "teamName": "Team C",
+      "playTime": "2023-12-19 21:00",
+      "rankLimt": "Silver",
+      "createAt": "2023-10-31",
+      "teamNotice": [
+        "1.不要有會說髒話的加入",
+        "2.最好有上大師",
+        "3.最近有玩超過10場牌位",
+        "4.演員地雷勿進"
+      ],
+      "teamMerberId": [
+        0,
+        32,
+        18,
+        0,
+        20
+      ]
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "teamName": "Team C",
+      "playTime": "2023-12-20 15:00",
+      "rankLimt": "Silver",
+      "createAt": "2023-10-31",
+      "teamNotice": [
+        "1.不要有會說髒話的加入",
+        "2.最好有上大師",
+        "3.最近有玩超過10場牌位"
+      ],
+      "teamMerberId": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "teamName": "Team C",
+      "playTime": "2023-12-19 21:00",
+      "rankLimt": "Silver",
+      "createAt": "2023-10-31",
+      "teamNotice": [
+        "1.不要有會說髒話的加入",
+        "2.最好有上大師",
+        "3.最近有玩超過10場牌位",
+        "4.演員地雷勿進"
+      ],
+      "teamMerberId": [
+        26,
+        0,
+        28,
+        0,
+        30
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "teamId": 1,
+      "userId": 2,
+      "createAt": "2023-10-29",
+      "messageText": "Hello, I'm interested in joining your team."
+    },
+    {
+      "id": 2,
+      "teamId": 1,
+      "userId": 3,
+      "createAt": "2023-10-30",
+      "messageText": "I'm a support main. Can I join your team?"
+    },
+    {
+      "id": 3,
+      "teamId": 2,
+      "userId": 1,
+      "createAt": "2023-10-31",
+      "messageText": "Let's practice together."
+    }
+  ],
+  "recommends": [
+    {
+      "id": 1,
+      "teamId": 1,
+      "userId": 1,
+      "recommendId": 2,
+      "status": 1
+    },
+    {
+      "id": 2,
+      "teamId": 2,
+      "userId": 3,
+      "recommendId": 1,
+      "status": 2
+    },
+    {
+      "id": 3,
+      "teamId": 3,
+      "userId": 1,
+      "recommendId": 2,
+      "status": 0
+    }
+  ]
+}
